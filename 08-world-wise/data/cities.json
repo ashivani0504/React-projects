@@ -1,0 +1,256 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "📍",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "📍",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "📍",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "b8b0",
+      "cityName": "Manzanares",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-05-15T18:13:38.840Z",
+      "notes": "",
+      "position": {
+        "lat": "39.14319286486102",
+        "lng": "-3.4277343750000004"
+      }
+    },
+    {
+      "id": "5e36",
+      "cityName": "Valdemoro",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-05-16T03:50:58.998Z",
+      "notes": "",
+      "position": {
+        "lat": "40.19241879756229",
+        "lng": "-3.6694335937500004"
+      }
+    },
+    {
+      "id": "8209",
+      "cityName": "Lloret de Vistalegre",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-05-16T03:51:05.645Z",
+      "notes": "",
+      "position": {
+        "lat": "39.618890557567184",
+        "lng": "2.9882812500000004"
+      }
+    },
+    {
+      "id": "0535",
+      "cityName": "Extent of Spanish Claims at Ceuta",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-05-16T03:51:09.633Z",
+      "notes": "",
+      "position": {
+        "lat": "35.99004775662979",
+        "lng": "-5.339355468750001"
+      }
+    },
+    {
+      "id": "b24a",
+      "cityName": "Western Sahara",
+      "country": "Morocco",
+      "emoji": "🇲🇦",
+      "date": "2024-05-16T03:51:13.794Z",
+      "notes": "",
+      "position": {
+        "lat": "32.13237093674551",
+        "lng": "-9.558105468750002"
+      }
+    },
+    {
+      "id": "5879",
+      "cityName": "Atlantic/Azores",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2024-05-16T03:51:16.526Z",
+      "notes": "",
+      "position": {
+        "lat": "37.662622159275216",
+        "lng": "-25.576171875"
+      }
+    },
+    {
+      "id": "bf0b",
+      "cityName": "Palma",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-05-16T04:36:51.360Z",
+      "notes": "",
+      "position": {
+        "lat": "39.568184575083755",
+        "lng": "2.6367187500000004"
+      }
+    },
+    {
+      "id": "83b7",
+      "cityName": "Cordoba",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-05-16T04:36:56.022Z",
+      "notes": "",
+      "position": {
+        "lat": "37.939764119792706",
+        "lng": "-4.592285156250001"
+      }
+    },
+    {
+      "id": "94d1",
+      "cityName": "Mumbai",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-05-22T17:22:58.989Z",
+      "notes": "must visit",
+      "position": {
+        "lat": "18.936677806146808",
+        "lng": "72.93823242187501"
+      }
+    },
+    {
+      "id": "e91b",
+      "cityName": "Hyderabad",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-05-22T17:23:26.694Z",
+      "notes": "good place",
+      "position": {
+        "lat": "17.467896900448626",
+        "lng": "78.61816406250001"
+      }
+    },
+    {
+      "id": "d40c",
+      "cityName": "Chennai",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-05-22T17:23:35.947Z",
+      "notes": "all there",
+      "position": {
+        "lat": "13.023855536122381",
+        "lng": "80.26611328125"
+      }
+    },
+    {
+      "id": "3852",
+      "cityName": "Srirangam",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-05-22T17:23:58.731Z",
+      "notes": "my home",
+      "position": {
+        "lat": "10.83097583851556",
+        "lng": "78.77197265625001"
+      }
+    },
+    {
+      "id": "05f5",
+      "cityName": "Kanjirapalli",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-05-22T17:24:39.450Z",
+      "notes": "good",
+      "position": {
+        "lat": "9.518903940671317",
+        "lng": "76.78619384765626"
+      }
+    },
+    {
+      "id": "ed44",
+      "cityName": "Kulattur",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-05-22T17:44:27.003Z",
+      "notes": "good",
+      "position": {
+        "lat": "10.591274900546898",
+        "lng": "78.83789062500001"
+      }
+    },
+    {
+      "id": "d77f",
+      "cityName": "Bandarawela",
+      "country": "Sri Lanka",
+      "emoji": "🇱🇰",
+      "date": "2024-05-22T17:44:38.112Z",
+      "notes": "nn",
+      "position": {
+        "lat": "6.828074088656537",
+        "lng": "80.99121093750001"
+      }
+    },
+    {
+      "id": "6cbe",
+      "cityName": "Medan",
+      "country": "Indonesia",
+      "emoji": "🇮🇩",
+      "date": "2024-05-22T17:44:49.174Z",
+      "notes": "okay",
+      "position": {
+        "lat": "3.6773642215142184",
+        "lng": "98.6572265625"
+      }
+    },
+    {
+      "id": "b429",
+      "cityName": "Chinchon",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-05-22T17:49:57.626Z",
+      "notes": "good",
+      "position": {
+        "lat": "40.19241879756229",
+        "lng": "-3.5375976562500004"
+      }
+    },
+    {
+      "id": "6410",
+      "cityName": "Daimiel",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-05-22T17:51:21.150Z",
+      "notes": "jgfir6",
+      "position": {
+        "lat": "39.10883930802652",
+        "lng": "-3.6474609375000004"
+      }
+    }
+  ]
+}
